@@ -1,2 +1,3 @@
-# bitscript
-A low level programming langauge
+# Bitscript
+
+Bitscript is a low level programming language similar to C.
